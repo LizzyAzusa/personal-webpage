@@ -1,0 +1,30 @@
+#name{
+  color: #d9a8b9;
+  font-size: 36px;
+  text-align: center
+}
+
+body{
+  background-color:#feeee8;
+}
+h2{
+  color: #8b0000;
+  text-decoration: underline
+}
+
+.headline{
+  color: #783000;
+  font-size: 15px;
+}
+
+#sad{
+  margin-left: 20px;
+}
+#happy{
+  margin-left: 45px;
+}
+
+.emotion{
+  flex: 10%;
+  padding: 5px;
+}
